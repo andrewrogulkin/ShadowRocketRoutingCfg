@@ -31,7 +31,7 @@
 3. Нажмите **"+"** в правом верхнем углу
 4. В поле **"URL"** введите:
    ```
-   https://raw.githubusercontent.com/tatarinovms/ShadowRocketSimpleConfig/master/baseline.conf
+   https://raw.githubusercontent.com/andrewrogulkin/ShadowRocketRoutingCfg/master/baseline.conf
    ```
 5. Нажмите **"Download"** 
 
